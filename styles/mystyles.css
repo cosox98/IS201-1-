@@ -1,0 +1,25 @@
+.tab{
+    background-image: url("../Images/back.jpeg");
+}
+
+.color{
+    color: rgb(35, 175, 16); text-decoration: none; 
+    
+}
+a:hover{
+    background-color: none;
+    color: rgb(35, 175, 16);
+}
+
+
+.double{
+    text-decoration-style: double;
+}
+
+.size{
+    font-size: large;
+}
+
+.font{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
